@@ -1,1 +1,8 @@
-
+Mission is failed when george lands on the plain bricks.
+Mission is successful when george lands on the grass brick.
+For textures,
+"assets/george_0.png";
+"assets/tileset.png";
+"assets/mission_success.png";
+"assets/mission_failed.png";
+above files were used. 
